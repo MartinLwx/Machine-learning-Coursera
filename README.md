@@ -17,6 +17,7 @@ This repo is originally forked from <https://github.com/dibgerge/ml-coursera-pyt
 > Note: I **don't have** the submission token and only pass the tests in the jupyter notebook, so the solutions **may** be wrong.
 
 - [x] [Exercise01. Linear regression](./Exercise1/exercise1.ipynb)
+- [x] [Exercise02. Classification](./Exercise2/exercise2.ipynb)
 
 
 ## Looking for answers for other cs-courses ?
