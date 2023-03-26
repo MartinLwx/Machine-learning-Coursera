@@ -22,6 +22,7 @@ This repo is originally forked from <https://github.com/dibgerge/ml-coursera-pyt
 - [x] [Exercise01. Linear regression](./Exercise1/exercise1.ipynb)
 - [x] [Exercise02. Classification](./Exercise2/exercise2.ipynb)
 - [x] [Exercise03. Multi-class Classification and Neural Networks](./Exercise3/exercise3.ipynb)
+- [x] [Exercise04. Neural Networks Learning](./Exercise4/exercise4.ipynb)
 
 
 ## Looking for answers for other cs-courses ?
