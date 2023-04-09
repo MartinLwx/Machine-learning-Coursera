@@ -25,6 +25,7 @@ This repo is originally forked from <https://github.com/dibgerge/ml-coursera-pyt
 - [x] [Exercise04. Neural Networks Learning](./Exercise4/exercise4.ipynb)
 - [x] [Exercise05. Regularized Linear Regression and Bias vs Variance](./Exercise5/exercise5.ipynb)
 - [x] [Exercise06. Support Vector Machines](./Exercise6/exercise6.ipynb) (**Feel free to skip this one, as it's not included in the 2022 edition**)
+- [x] [Exercise07. K-means Clustering and Principal Component Analysis](./Exercise7/exercise7.ipynb)
 
 
 ## Looking for answers for other cs-courses ?
