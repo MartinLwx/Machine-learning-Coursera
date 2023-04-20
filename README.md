@@ -10,6 +10,7 @@ While I had previously taken this course, I had not completed the assignments as
 Coursera page:
 - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
 - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms)
+- [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning/) (**Assiginments unavailable**)
 
 This repo is originally forked from <https://github.com/dibgerge/ml-coursera-python-assignments>. 
 
@@ -26,6 +27,7 @@ This repo is originally forked from <https://github.com/dibgerge/ml-coursera-pyt
 - [x] [Exercise05. Regularized Linear Regression and Bias vs Variance](./Exercise5/exercise5.ipynb)
 - [x] [Exercise06. Support Vector Machines](./Exercise6/exercise6.ipynb) (**Feel free to skip this one, as it's not included in the 2022 edition**)
 - [x] [Exercise07. K-means Clustering and Principal Component Analysis](./Exercise7/exercise7.ipynb)
+- [x] [Exercise08. Anomaly Detection and Recommender Systems](./Exercise8/exercise8.ipynb)
 
 
 ## Looking for answers for other cs-courses ?
